@@ -11,6 +11,7 @@ wpf 공부를 위한 프로젝트
   IniController (https://github.com/Enichan/Ini)
 
 구현 : 
+ 트레이, 트레이 컨텍스트 메뉴,
  API 연동, 자동로그아웃, 자동로그인, 
  ini 설정파일 연동,
  커스텀 alert창, 커스텀 타이틀바, 커스텀 탭메뉴,
